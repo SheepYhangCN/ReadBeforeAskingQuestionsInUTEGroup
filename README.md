@@ -82,7 +82,7 @@ _group_font[X,1]=字体名<br>
 _group_font_scale_x[X,1]=1<br>
 _group_font_scale_y[X,1]=1<br>
 _group_font_space_x[X,1]=1;<br>
-_group_font_space_y[3]=1<br>
+_group_font_space_y[X]=1<br>
 
 把 字体名 改为你的字体名 两个相同
 
