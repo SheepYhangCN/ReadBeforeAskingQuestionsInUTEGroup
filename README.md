@@ -4,11 +4,15 @@
 
 并且，请善用搜索引擎和GameMaker官方文档
 
-RTFM：Read The Fucking Manual —— 就是让你去生吞文档
-
-STFW：Search The Fucking Web —— 就是让你去薄纱搜索引擎
-
 此处没有的内容可以查阅此视频：https://www.bilibili.com/video/BV13d4y1K72G/
+
+不管是在任何地方中询问前都请仔细阅读 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+
+RTFM和STFW的释义
+![](RTFM&STFW.jpg)
+
+这是一个愚蠢的问题
+![](StupidQuestion.jpg)
 
 # 字体篇
 
