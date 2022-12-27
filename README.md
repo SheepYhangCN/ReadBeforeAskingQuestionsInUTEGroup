@@ -13,11 +13,11 @@ https://www.bilibili.com/video/BV13d4y1K72G/
 
 不管是在任何地方中询问前都请仔细阅读 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
-<details><summary>RTFM和STFW的释义</summary>
+<details><summary>RTFM和STFW的释义（图源《提问的智慧 简体中文版》）</summary>
 <img src=RTFM&STFW.jpg width=100%/>
 </details>
 
-<details><summary>这是一个愚蠢的问题</summary>
+<details><summary>这是一个愚蠢的问题（图源《提问的智慧 简体中文版》）</summary>
 <img src=StupidQuestion.jpg width=100%/>
 </details>
 
@@ -28,6 +28,10 @@ https://www.bilibili.com/video/BV13d4y1K72G/
 
 <details><summary>以免引起群内某位的杀🐴之心 十分感谢</summary>
 <img src=NSBRI.png width=50%/>
+</details>
+
+<details><summary>NSBRT的释义（图源天机Ceyase）</summary>
+<img src=NSBRT.png width=100%/>
 </details>
 
 # 字体篇
