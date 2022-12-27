@@ -13,12 +13,22 @@ https://www.bilibili.com/video/BV13d4y1K72G/
 
 不管是在任何地方中询问前都请仔细阅读 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
-RTFM和STFW的释义
+<details><summary>RTFM和STFW的释义</summary>
+<img src=RTFM&STFW.jpg width=100%/>
+</details>
 
-<img src=RTFM&STFW.jpg width=80%/>
-
-这是一个愚蠢的问题
+<details><summary>这是一个愚蠢的问题</summary>
 <img src=StupidQuestion.jpg width=100%/>
+</details>
+
+
+还有，如果你的代码报错了 而且内容中含有not set before reading it(读前未设置)
+
+请先尝试自己解决(比如检查变量是否填错 在“创建”事件设置这个变量 参考别人的或者是已有的代码 或者直接删除这行)
+
+<details><summary>以免引起群内某位的杀🐴之心 十分感谢</summary>
+<img src=NSBRI.png width=50%/>
+</details>
 
 # 字体篇
 
