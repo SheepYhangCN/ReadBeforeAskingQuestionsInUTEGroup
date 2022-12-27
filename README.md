@@ -30,7 +30,7 @@ RTFM和STFW的释义
 
 点击添加范围 从文件获取
 
-字库：https://pan.bilnn.com/s/a9ZOFL
+字库：https://www.123pan.com/s/KPMSVv-dcPjv
 
 确认后GM会卡一会 好了之后关闭字体窗口
 
@@ -48,7 +48,7 @@ RTFM和STFW的释义
 
 安装方正像素16（右键→为所有用户安装）
 
-下载：https://pan.bilnn.com/s/8rbWcb
+下载：https://www.123pan.com/s/KPMSVv-3cPjv
 
 好了后重启GM或者点击帮助→刷新系统字体→确认
 
@@ -70,7 +70,7 @@ RTFM和STFW的释义
 
 安装这俩字体（右键→为所有用户安装）
 
-下载：https://pan.bilnn.com/s/PMd1C5
+下载：https://www.123pan.com/s/KPMSVv-hcPjv
 
 好了后重启GM或者点击帮助→刷新系统字体→确认
 
