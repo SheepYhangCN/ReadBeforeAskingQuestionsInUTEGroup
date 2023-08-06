@@ -6,11 +6,7 @@
 
 并且，请善用搜索引擎和GameMaker官方文档
 
-此处没有的内容可以查阅以下视频：
-
-https://www.bilibili.com/video/BV13d4y1K72G/
-<br>https://www.bilibili.com/video/BV1n84y1i73h/
-<br>https://www.bilibili.com/video/BV19h411c7k1/
+此处没有的内容可以查阅<a href="https://github.com/SheepYhangCN/UTE-Advanced-Tutorial/blob/master/README.md">UNDERTALE Engine 进阶教程</a>
 
 不管是在任何地方中询问前都请仔细阅读 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
